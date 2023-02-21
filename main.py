@@ -33,7 +33,8 @@ def main():
             print(changes())
             high = float(changes()) * 1.01
             down = float(changes()) * 0.99
-        time.sleep(1)
-main()
+    time.sleep(1)
+if __name__ = "__main__":
+    main()
 
 
