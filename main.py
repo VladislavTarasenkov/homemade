@@ -34,7 +34,7 @@ def main():
             high = float(changes()) * 1.01
             down = float(changes()) * 0.99
     time.sleep(1)
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
 
 
